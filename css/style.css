@@ -1,0 +1,89 @@
+body{
+  color:whitesmoke;
+}
+.preamble{
+  background-image:url(https://scontent-lax3-1.xx.fbcdn.net/v/t31.0-8/13680285_10154136175704193_6683768201550872840_o.jpg?_nc_cat=0&oh=59f0b4ec4866255c4473c84cdfc7db5d&oe=5B59BF0D);
+  background-size: cover;
+  background-attachment:fixed;
+}
+
+.first{
+  padding-top:80px;
+  padding-bottom:20px;
+  font-size:10em;
+  text-align:center;
+  letter-spacing:0em;
+  font-family:"Playfair Display";
+}
+
+.first-p{
+  color: whitesmoke;
+  font-family: 'Roboto';
+  width:700px;
+  padding-top:120px;
+  padding-bottom:150px;
+  padding-right:50px;
+  padding-left:50px;
+  margin: auto;
+  text-align:center;
+  font-size:1.25em;
+}
+
+.about-me{
+  background-image:url(https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/535777_507594862625814_631474092_n.jpg?_nc_cat=0&oh=1141c01c3242e465429e6080f85f2515&oe=5B299E98);
+  background-attachment:fixed;
+  background-size:cover;
+  
+ }
+
+.second{
+  padding-top:40px;
+  padding-bottom:40px;
+  font-size:7em;
+  font-family:"PLayfair Display";
+  letter-spacing:0.065em;
+  
+}
+.music{
+  text-align:center;
+}
+
+.soundcloud2{
+  padding-bottom:40px;
+}
+.soundcloud1{
+  padding-top:30px;
+}
+
+.dj{
+  background-image:url(https://i.imgur.com/r4QWgHt.png);
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.flex-container{
+  font-size:7em;
+  padding-bottom:120px;
+  padding-left:100px;
+  padding-right:100px;
+  padding-top:100px;
+  display:flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.link{
+  color: white;
+}
+
+.link:hover{
+  color: deeppink;
+}
+
+#contact{
+  text-align:center;
+  font-family:"Playfair Display";
+  
+  padding-top:60px;
+  font-size:7em;
+}
